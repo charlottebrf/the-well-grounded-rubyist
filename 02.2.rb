@@ -74,4 +74,4 @@ if puts "You'll see this"
 end
 
 #the first puts is executed but the value it returns (nil) isn't true in the Boolean sense, 2nd puts isn't executed
-#every object has a boolean value  
+#every object has a boolean value

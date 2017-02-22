@@ -36,4 +36,4 @@ puts obj.c2f(100)
 #you have to use return when:
 #you return multiple values which will be wrapped in an array return a, b, c
 #have to use return if you want to return from somewhere in the middle of a method
-#whether you use return or not something will be returned from every method call 
+#whether you use return or not something will be returned from every method call
