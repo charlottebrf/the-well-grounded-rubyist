@@ -1,0 +1,9 @@
+#Every object is "born" with certain innate abilities.
+
+p Object.new.methods.sort
+
+object_id
+respond_to?
+send(synonym:_send_)
+
+BasicObject.new 
